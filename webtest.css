@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  height: 70px;
+  background-color: #ec715f;
+}
+
+.nav-list {
+  width: 1024px;
+}
+
+.nav-list-item {
+  margin: 0 30px 0 30px;
+  font-size: 16px;
+  color: #fafafa;
+}
